@@ -49,7 +49,3 @@ Used simple arithmetic and conditions, handled edge cases like negative score.
 **Complexity:**
 Time: O(1)
 Space: O(1)
-## How to Run
-1. Open any HTML file in a browser
-2. Enter the required inputs
-3. View the output in alert
